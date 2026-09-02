@@ -21,7 +21,8 @@ By analyzing the content, structure, and keyword usage within resumes, this AI-p
 ## 📺 Video Demonstration:  
 [![Watch the video](https://img.youtube.com/vi/tKa8ENIQjuU/0.jpg)](https://www.youtube.com/watch?v=tKa8ENIQjuU)
 
-2026-09-01
+2026-09-02
+
 
 
 
